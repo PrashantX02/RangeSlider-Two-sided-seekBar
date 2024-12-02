@@ -1,5 +1,8 @@
 # Video Trimming App with Custom Two-Sided Slide Range Bar
 
+![Custom Two-Sided Slide Range Bar](./Screenshot%202024-12-02%20194756.png)
+
+
 This project is a video trimming application that allows users to trim videos by selecting a range with a custom two-sided slide range bar. It uses Android’s `MediaMetadataRetriever` to extract frames from videos for visual previewing.
 
 ## Features
